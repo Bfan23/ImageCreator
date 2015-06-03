@@ -1,0 +1,6 @@
+D:\development\practice\ImageCreator\ImageCreator\bin\Debug\ImageCreator.exe.config
+D:\development\practice\ImageCreator\ImageCreator\bin\Debug\ImageCreator.exe
+D:\development\practice\ImageCreator\ImageCreator\bin\Debug\ImageCreator.pdb
+D:\development\practice\ImageCreator\ImageCreator\obj\Debug\ImageCreator.csprojResolveAssemblyReference.cache
+D:\development\practice\ImageCreator\ImageCreator\obj\Debug\ImageCreator.exe
+D:\development\practice\ImageCreator\ImageCreator\obj\Debug\ImageCreator.pdb
